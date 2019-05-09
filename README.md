@@ -11,6 +11,6 @@ All the steps are done by me.
 
 ## Stata Tutorials
 
-1. [Introduction to data analysis with STATA.]()
+1. [Introduction to data analysis with STATA.](https://github.com/GeorgeOduor/Introduction-to-statistical-data-analysis-with-STATA./blob/master/README.md)
 
 
