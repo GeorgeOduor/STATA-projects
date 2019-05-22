@@ -13,4 +13,6 @@ All the steps in these projects are done by me.
 
 1. [Introduction to data analysis with STATA.](https://github.com/GeorgeOduor/Introduction-to-statistical-data-analysis-with-STATA./blob/master/README.md)
 
+2. [Handling Data with STATA](https://github.com/GeorgeOduor/Data-Handling-in-STATA/blob/master/README.md)
+
 
